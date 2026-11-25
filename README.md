@@ -2,22 +2,23 @@
   <img src="github-export-import-stars.png" width="60%" alt="GITHUB-EXPORT-IMPORT-STARS-logo">
 </p>
 <p align="center">
-    <h1 align="center">GITHUB-EXPORT-IMPORT-STARS</h1>
-</p>
-<p align="center">
     <em>Seamlessly Transfer Your GitHub Stars, Effortlessly.</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/richardadonnell/github-export-import-stars?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/richardadonnell/github-export-import-stars?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/richardadonnell/github-export-import-stars?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/richardadonnell/github-export-import-stars?style=default&color=0080ff" alt="repo-language-count">
+
 </p>
 <p align="center">
 	<!-- default option, no dependency badges. -->
 </p>
 
 <br>
+
+# Why a Fork
+
+I wanted to only export my stars. It was not possible with the original code.<br>
+I refactored the code to more functions and didn't bother to revise the arguments.<br>
+This repository will likely not receive any further updates. Please check the original repository.
+
 
 # GitHub Export Import Stars
 
